@@ -12,7 +12,7 @@ const data = {
     about: {
         title: "Background",
         description: 
-            "Passed matriculation exam with 500 marks (4D) out of 600 marks and attended University of Information Technology (UIT). Proven experience in developing web applications, cloud computing and databases . Skilled in writing clean codes and have knowledge of designing, developing and deploying web applications and cloud solutions. Proficient in a wide range of programming languages, automation tools and cloud technologies.",
+            "Passed matriculation exam with 500 marks (4D) out of 600 marks and attended University of Information Technology (UIT). Have strong work experiences in data analysis, cloud computing and developing web applications. Skilled in writing clean codes and have knowledge of designing, developing and deploying web applications and cloud solutions. Proficient in a wide range of programming languages, automation tools and cloud technologies.",
     },
     skills: [
         {
