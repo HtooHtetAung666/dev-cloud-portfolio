@@ -24,7 +24,7 @@ const data = {
             skillIcon: <FaLinux className='text-4xl text-laraDev mx-auto inline-block' />
         },
         {
-            skillName: <p className='text-xl text-laraLan font-semibold mt-4'>Programming</p>,
+            skillName: <p className='text-xl text-laraLan font-semibold mt-4'>Cloud</p>,
             skillIcon: <FaAws className='text-4xl text-laraLan mx-auto inline-block' />
         },
     ],
