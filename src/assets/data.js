@@ -14,7 +14,7 @@ const data = {
     about: {
         title: "Background",
         description:
-            "I'm Htoo Htet Aung, a programmer 🧑‍💻 graduated from the University of Information Techonlogy (UIT) in the year 2022. Currently I'm attending Master of Science Programme in Digital Transformation Technology at Mae Fah Luang University (MFU) in Thailand 🇹🇭. I'm interested in programming since Baechlor academic days and after graduating, I worked as a web developer in IT solution companies. Not only in programming field, I have further deep dive into emerging technologies like machine learning and cloud computing subjects and I'm enjoying it. I use my lesiure time by watching youtube, listening music in soundcloud and sometimes playing computer games 🎮." 
+            "I'm Htoo Htet Aung, a programmer 🧑‍💻 graduated from the University of Information Technology (UIT) in the year 2022. Currently I'm attending Master of Science Programme in Digital Transformation Technology at Mae Fah Luang University (MFU) in Thailand 🇹🇭. I'm interested in programming since Baechlor academic days and after graduating, I worked as a web developer in IT solution companies. Not only in programming field, I have further deep dive into emerging technologies like machine learning and cloud computing subjects and I'm enjoying it. I use my lesiure time by watching youtube, listening music in soundcloud and sometimes playing computer games 🎮." 
     },
     skills: [
         {
