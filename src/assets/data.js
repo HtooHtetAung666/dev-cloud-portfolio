@@ -1,5 +1,7 @@
 import React from "react";
-import { FaAws, FaLinux, FaCode } from "react-icons/fa";
+import { FaCode } from "react-icons/fa";
+import { TbCloudComputing } from "react-icons/tb";
+import { GiArtificialIntelligence } from "react-icons/gi";
 
 const data = {
     name: "Htoo Htet Aung",
@@ -11,8 +13,8 @@ const data = {
     },
     about: {
         title: "Background",
-        description: 
-            "Passed matriculation exam with 500 marks (4D) out of 600 marks and attended University of Information Technology (UIT). Have strong work experiences in data analysis, cloud computing and developing web applications. Skilled in writing clean codes and have knowledge of designing, developing and deploying web applications and cloud solutions. Proficient in a wide range of programming languages, automation tools and cloud technologies.",
+        description:
+            "I'm Htoo Htet Aung, a programmer 🧑‍💻 graduated from the University of Information Techonlogy (UIT) in the year 2022. Currently I'm attending Master of Science Programme in Digital Transformation Technology at Mae Fah Luang University (MFU) in Thailand 🇹🇭. I'm interested in programming since Baechlor academic days and after graduating, I worked as a web developer in IT solution companies. Not only in programming field, I have further deep dive into emerging technologies like machine learning and cloud computing subjects and I'm enjoying it. I use my lesiure time by watching youtube, listening music in soundcloud and sometimes playing computer games 🎮." 
     },
     skills: [
         {
@@ -20,12 +22,12 @@ const data = {
             skillIcon: <FaCode className='text-4xl text-[#B372BD] mx-auto inline-block' />
         },
         {
-            skillName: <p className='text-xl text-laraDev font-semibold mt-4'>Linux</p>,
-            skillIcon: <FaLinux className='text-4xl text-laraDev mx-auto inline-block' />
+            skillName: <p className='text-xl text-laraDev font-semibold mt-4'>Cloud</p>,
+            skillIcon: <TbCloudComputing className='text-4xl text-laraDev mx-auto inline-block' />
         },
         {
-            skillName: <p className='text-xl text-laraLan font-semibold mt-4'>Cloud</p>,
-            skillIcon: <FaAws className='text-4xl text-laraLan mx-auto inline-block' />
+            skillName: <p className='text-xl text-laraLan font-semibold mt-4'>AI</p>,
+            skillIcon: <GiArtificialIntelligence  className='text-4xl text-laraLan mx-auto inline-block' />
         },
     ],
     projects: [

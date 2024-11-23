@@ -7,16 +7,16 @@ const ProjectCard = ({ project: { title, description, tags, link } }) => {
         <div
             className='group w-full sm:w-1/2 m-4 mx-auto p-6 rounded-xl border-2 border-gray-500'
         >
-            <a
-                href={link}
-                target='_blank'
-                rel="noopener noreferrer"
-            >
-                <h1 className="text-xl text-center font-bold">
-                    {title}{" "}
+            <h1 className="text-xl text-center font-bold">
+                {title}{" "}
+                <a
+                    href={link}
+                    target='_blank'
+                    rel="noopener noreferrer"
+                >
                     <FaExternalLinkAlt className="inline align-baseline" />
-                </h1>
-            </a>
+                </a>
+            </h1>
             <hr className="my-4" />
             <p className="text-center">{description}</p>
             <div className="mt-4 mb-8 flex flex-wrap justify-center items-center gap-2">

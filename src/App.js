@@ -18,7 +18,7 @@ function App() {
   });
 
   return (
-    <div className="min-h-screen py-10 px-3 sm:px-5 bg-gray-100">
+    <div className="min-h-screen py-10 px-3 sm:px-5 bg-gray-50">
 
       <div data-aos="fade-down" data-aos-duration="800">
         <div className="w-full flex items-center justify-center">
