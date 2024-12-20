@@ -1,5 +1,5 @@
 import React from 'react'
-import profile from '../images/htoohtet.JPG'
+import profile from '../images/htoohtetaung.jpg'
 import { FaGithub, FaRegEnvelope, FaLinkedin } from 'react-icons/fa'
 
 const Card = ({ name, title, social: { github, email, linkedin } }) => {
